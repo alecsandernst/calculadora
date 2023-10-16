@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(169, 169, 169);
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+    
+    
+  }
+  
+  .btn {
+    width: 100px;
+  }
+  
+  .Vcilindro, .Atotal{
+    margin-top: 40px;
+  }
+
+  #sobre {
+    text-align: center;
+    border: solid 3px;
+    border-color: black;
+    height: 500px;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+
+}
